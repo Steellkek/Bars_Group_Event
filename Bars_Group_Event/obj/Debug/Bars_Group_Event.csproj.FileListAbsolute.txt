@@ -1,0 +1,5 @@
+C:\Users\alyam\RiderProjects\Bars_Group_Event\Bars_Group_Event\obj\Debug\Bars_Group_Event.csprojResolveAssemblyReference.cache
+C:\Users\alyam\RiderProjects\Bars_Group_Event\Bars_Group_Event\bin\Debug\Bars_Group_Event.exe
+C:\Users\alyam\RiderProjects\Bars_Group_Event\Bars_Group_Event\bin\Debug\Bars_Group_Event.pdb
+C:\Users\alyam\RiderProjects\Bars_Group_Event\Bars_Group_Event\obj\Debug\Bars_Group_Event.exe
+C:\Users\alyam\RiderProjects\Bars_Group_Event\Bars_Group_Event\obj\Debug\Bars_Group_Event.pdb
